@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dxuoq2YEU//A6/cFfFf7CNUP+OKMZxO7lPsa4TCjObIHJ3StHotxtIbo4UZzZIXWZzZzb8rzhdj6/OgaggDl7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bageg\\Desktop\\dotnet\\ClubMembershipApplication\\FieldValidation\\FieldValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

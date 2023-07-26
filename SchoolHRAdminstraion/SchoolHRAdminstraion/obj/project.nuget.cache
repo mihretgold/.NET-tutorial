@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8O7dDnNmFQhqbp1zXFjbImNIftWgGDSLl5SzolS/QC3zhYZGvj3M1BBpounBn2Ade5BhJcsOOvjvaQ0MxTJ9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bageg\\Desktop\\dotnet\\SchoolHRAdminstraion\\SchoolHRAdminstraion\\SchoolHRAdminstraion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

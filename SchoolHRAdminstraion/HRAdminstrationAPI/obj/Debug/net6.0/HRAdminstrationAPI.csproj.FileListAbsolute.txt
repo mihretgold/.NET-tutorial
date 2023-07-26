@@ -1,0 +1,12 @@
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\bin\Debug\net6.0\HRAdminstrationAPI.deps.json
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\bin\Debug\net6.0\HRAdminstrationAPI.dll
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\bin\Debug\net6.0\HRAdminstrationAPI.pdb
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\HRAdminstrationAPI.csproj.AssemblyReference.cache
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\HRAdminstrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\HRAdminstrationAPI.AssemblyInfoInputs.cache
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\HRAdminstrationAPI.AssemblyInfo.cs
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\HRAdminstrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\HRAdminstrationAPI.dll
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\refint\HRAdminstrationAPI.dll
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\HRAdminstrationAPI.pdb
+C:\Users\bageg\Desktop\dotnet\SchoolHRAdminstraion\HRAdminstrationAPI\obj\Debug\net6.0\ref\HRAdminstrationAPI.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubMembershipApplication", "ClubMembershipApplication\ClubMembershipApplication.csproj", "{F074B2C6-5414-4316-A70B-98299691EB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldValidation", "FieldValidation\FieldValidation.csproj", "{AEB2D7D3-353E-4CE0-8F9B-A234313A0602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F074B2C6-5414-4316-A70B-98299691EB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F074B2C6-5414-4316-A70B-98299691EB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F074B2C6-5414-4316-A70B-98299691EB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F074B2C6-5414-4316-A70B-98299691EB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB2D7D3-353E-4CE0-8F9B-A234313A0602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB2D7D3-353E-4CE0-8F9B-A234313A0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB2D7D3-353E-4CE0-8F9B-A234313A0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB2D7D3-353E-4CE0-8F9B-A234313A0602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66706D26-91E2-4D7D-BF97-1EDE595A6E48}
+	EndGlobalSection
+EndGlobal

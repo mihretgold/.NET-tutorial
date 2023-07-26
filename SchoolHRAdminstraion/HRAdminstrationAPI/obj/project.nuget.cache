@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b59gAJXYNrz4dK8uGxI15akBsambrZu8fHINVG/pHqeGFouwxEozk2Oxlku8buY5XuU0UyTsR+SSiBiQIyXgwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bageg\\Desktop\\dotnet\\SchoolHRAdminstraion\\HRAdminstrationAPI\\HRAdminstrationAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\bageg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
